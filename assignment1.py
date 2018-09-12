@@ -9,7 +9,6 @@ def drawcircles():
         turtle.circle(x)
         turtle.left(1.8)
 
-
 turtle.pencolor("#ff80ff")
 
 drawcircles()
